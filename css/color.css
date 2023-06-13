@@ -1,0 +1,148 @@
+html {
+    /* #808080, rgb(128, 128, 128) */
+        /*--style-color-r: 99; --style-color-g: 95; --style-color-b: 95;*/
+    /* #3a8579, rgba(58, 133, 121, 1) */
+        /*--style-color-r: 58; --style-color-g: 133; --style-color-b: 121;*/
+     /*#b06a23, rgb(176, 106, 35)*/
+        /*--style-color-r: 176; --style-color-g: 106; --style-color-b: 35;*/
+    /* #6e3852, rgb(110, 56, 82) */
+        /*--style-color-r: 110; --style-color-g: 56; --style-color-b: 82;*/
+     /*#4B6A78, rgb(75, 106, 120) */
+        /*--style-color-r: 75; --style-color-g: 106; --style-color-b: 120;*/
+    /* #374f5b, rgb(55, 79, 91)*/
+        /*--style-color-r: 55; --style-color-g: 79; --style-color-b: 91;
+    --style-color: rgb( var(--style-color-r), var(--style-color-g), var(--style-color-b));*/
+    color: rgb(55, 79, 91);
+}
+body {
+    background: rgba(55, 79, 91, 0.1);
+    /*font-family: 'Roboto', sans-serif;*/
+    font-family: sans-serif;
+    font-size: 14px;
+    color: rgb(55, 79, 91);
+}
+blockquote {
+    border-radius: 10px;
+    color: rgb(155, 79, 91);
+    background-color: rgba(155, 79, 91, 0.1);
+    border-left: 10px solid rgba(155, 79, 91, 1);
+}
+a {
+    color: rgb(55, 79, 91);
+}
+section nav {
+    color: #fff;
+    background-color: rgb(55, 79, 91);
+}
+section nav span.bold a {
+    font-weight: bolder;
+}
+.fa {
+    color: #fff;
+    background-color: rgb(155, 79, 91);
+}
+.country {
+    font-size: smaller;
+}
+.company sup {
+    font-weight: bold;
+}
+.section .details sup {
+    color: #fff;
+    background-color: rgb(55, 79, 91);
+    font-weight: bold;
+}
+.summary {
+    text-align: center;
+}
+.wrapper {
+    background: #fff;
+}
+.sidebar-wrapper .profile-container {
+  background: rgba(0, 0, 0, 0.4);
+  color: #fff;
+  text-align: center;
+}
+.main-wrapper {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+.sidebar-wrapper {
+    background-color: rgb(155, 79, 91);
+}
+.profile-container .tagline {
+    font-size: 12px;
+    padding-bottom: 10px;
+}
+.contact-list a {
+    text-decoration: none;
+}
+.education-container .item .meta a {
+    text-decoration: underline;
+}
+.education-container .item .meta a:hover {
+    text-decoration: none;
+}
+.degree {
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7);
+}
+.level-title a {
+    text-decoration: underline;
+}
+.main-wrapper .time {
+    color: #fff;
+    background-color: rgba(55, 79, 91, 1);
+    padding: 0 5px 0 5px;
+}
+.main-wrapper .job-title {
+    color: rgba(55, 79, 91, 1);
+    border-bottom: 2px solid rgba(55, 79, 91, 1);
+}
+.item .meta .company {
+    color: rgba(55, 79, 91, 0.75);
+}
+.item .meta .company a {
+    color: rgba(55, 79, 91, 1);
+}
+.skillset .level-title:before, .project-title:before {
+    content: "\2217";
+}
+.skillset .level-title.active:before {
+    content: "\2217\232A";
+}
+.item .level-bar {
+    background-color: rgba(55, 79, 91, 0.1) !important;
+}
+.item .level-watermark {
+    border-right: 0.3em solid rgb(55, 79, 91);
+}
+.item .level-bar-inner {
+    background-color: rgba(55, 79, 91, 0.8) !important;
+}
+.item .level-bar-inner.active {
+    opacity: 0.75;
+}
+.screenshots img  {
+    border: 1px solid rgba(55, 79, 91, 0.2);
+}
+.education-container, .languages-list, .interests-list {
+    font-size: smaller;
+}
+ul.nav {
+    color: #fff;
+    background-color: rgb(55, 79, 91);
+}
+ul.nav li a, ul.nav li a:hover {
+    color: #fff;
+    background-color: rgb(55, 79, 91);
+}
+.highlight pre  {
+    background: #202020;
+    color: #fff;
+}
+.main-wrapper.blog h5, .main-wrapper.blog div.blog.list-li span.date {
+    background-color: rgba(55, 79, 91, 0.75);
+    color: #fff;
+}
+.label-danger {
+    background-color: rgba(155, 79, 91, 0.75);
+}

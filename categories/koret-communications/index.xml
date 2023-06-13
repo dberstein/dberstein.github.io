@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Koret Communications on Daniel Berstein</title>
+        <link>/categories/koret-communications/</link>
+        <description>Recent content in Koret Communications on Daniel Berstein</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 27 Dec 2016 08:22:22 +0200</lastBuildDate>
+        <atom:link href="/categories/koret-communications/" rel="self" type="application/rss+xml"/>
+        
+        <item>
+            <title>Recommendation :: Jacob Shwirtz</title>
+            <link>/recommendation/2005/jacob-shwirtz/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2005/jacob-shwirtz/</guid>
+            <description>&lt;p&gt;Daniel was an absolute pleasure to work with. He was always able to bring a great big-picture perspective
+to our projects and do much more than just what he was hired for. Many projects wouldn&amp;rsquo;t have succeeded
+without his attention to detail and ability to manage resources most effectively.&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: Jonathan Aizen</title>
+            <link>/recommendation/2005/jonathan-aizen/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2005/jonathan-aizen/</guid>
+            <description>&lt;p&gt;Daniel is a top-tier PHP developer who pays close attention to detail and produces excellent code. His focus
+on reusability, scalability, and performance result in excellent products. Beyond his professional abilities,
+Daniel&amp;rsquo;s sense of humor, pleasant and easy-going nature, and willingness to learn new things make him a
+great person to work with.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

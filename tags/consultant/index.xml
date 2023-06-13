@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>consultant on Daniel Berstein</title>
+        <link>/tags/consultant/</link>
+        <description>Recent content in consultant on Daniel Berstein</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 27 Dec 2016 08:22:22 +0200</lastBuildDate>
+        <atom:link href="/tags/consultant/" rel="self" type="application/rss+xml"/>
+        
+        <item>
+            <title>Recommendation :: David Korba</title>
+            <link>/recommendation/2008/david-korba/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2008/david-korba/</guid>
+            <description>&lt;p&gt;Daniel is one of the brightest developer&amp;rsquo;s I&amp;rsquo;ve ever had the pleasure to work with. He is quick, methodical,
+and well thought-out but his knowledge extends beyond that of a traditional developer into one who
+understands business processes and the interconnection between. He would be a tremendous asset to any
+organization. It&amp;rsquo;s been a pleasure having him as a client and as a partner in achieving our client goals.&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: David Taber</title>
+            <link>/recommendation/2008/david-taber/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2008/david-taber/</guid>
+            <description>&lt;p&gt;Daniel is one of the most creative and versatile developers I&amp;rsquo;ve ever worked with. He&amp;rsquo;s quite good at
+understanding business objectives and coming up with three different &amp;ndash; but equally viable &amp;ndash; ways to solve
+the issues. Although he&amp;rsquo;s an engineer&amp;rsquo;s engineer, he knows how to understand business issues and he&amp;rsquo;s quite
+good at anticipating problems and architecting solutions. Wish I could work with him again, or others equally
+good. A rare bird!&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

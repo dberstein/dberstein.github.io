@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>zend studio on Daniel Berstein</title>
+        <link>/tags/zend-studio/</link>
+        <description>Recent content in zend studio on Daniel Berstein</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 27 Dec 2016 08:22:22 +0200</lastBuildDate>
+        <atom:link href="/tags/zend-studio/" rel="self" type="application/rss+xml"/>
+        
+        <item>
+            <title>Recommendation :: Yossi Leon</title>
+            <link>/recommendation/2008/yossi-leon/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2008/yossi-leon/</guid>
+            <description>&lt;p&gt;Daniel is a responsible and dedicated engineer who put a lot of effort in bringing the company&amp;rsquo;s site and
+infrastructure to high level standards. Daniel and I worked close together when it has to do with launching
+new products. Daniel impressed me with his professional skills and helped me as Product manager to achieve
+my product&amp;rsquo;s goals. I&amp;rsquo;m sure that Daniel will succeed in any company he will work for and i wish him good
+luck.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
