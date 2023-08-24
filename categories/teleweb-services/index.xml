@@ -1,40 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Teleweb Services on Daniel Berstein</title>
-        <link>/categories/teleweb-services/</link>
-        <description>Recent content in Teleweb Services on Daniel Berstein</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Tue, 27 Dec 2016 08:22:22 +0200</lastBuildDate>
-        <atom:link href="/categories/teleweb-services/" rel="self" type="application/rss+xml"/>
-        
-        <item>
-            <title>Recommendation :: Oleg Sverdlov</title>
-            <link>/recommendation/2011/oleg-sverdlov/index.html</link>
-            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
-            <author>Daniel Berstein (daniel@basegeo.com)</author>
-            <guid>/recommendation/2011/oleg-sverdlov/</guid>
-            <description>&lt;p&gt;As a software engineer, Daniel provides industrial-grade solutions in time and according to specs. He works
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Teleweb Services on Daniel Berstein</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/categories/teleweb-services/</link><description>Recent content in Teleweb Services on Daniel Berstein</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 27 Dec 2016 08:22:22 +0200</lastBuildDate><atom:link href="/Users/daniel/Code/hugo-daniel.berste.in/public/categories/teleweb-services/" rel="self" type="application/rss+xml"/><item><title>Recommendation :: Oleg Sverdlov</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2011/oleg-sverdlov/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2011/oleg-sverdlov/</guid><description>&lt;p>As a software engineer, Daniel provides industrial-grade solutions in time and according to specs. He works
 in a team as well as an one-man special task force, always bringing out high quality work. As a system
 architect, he&amp;rsquo;s an independent and creative thinker. As a skilled craftsman, Daniel is able to come up with
 creative solutions that often exceed expectations. Daniel&amp;rsquo;s friendly and ongoing personality makes it simple to
-work with him even for multicultural teams. It is a pleasure to work together with him.&lt;/p&gt;
-</description>
-        </item>
-        
-        <item>
-            <title>Recommendation :: Sivan Greenberg</title>
-            <link>/recommendation/2011/sivan-greenberg/index.html</link>
-            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
-            <author>Daniel Berstein (daniel@basegeo.com)</author>
-            <guid>/recommendation/2011/sivan-greenberg/</guid>
-            <description>&lt;p&gt;Daniel is the nicest and kindest person whom I have ever had the privilege to work with. Not only is he
+work with him even for multicultural teams. It is a pleasure to work together with him.&lt;/p></description></item><item><title>Recommendation :: Sivan Greenberg</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2011/sivan-greenberg/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2011/sivan-greenberg/</guid><description>&lt;p>Daniel is the nicest and kindest person whom I have ever had the privilege to work with. Not only is he
 a technical wizard, but he also exhibits impressive management and prioritization skills. I enjoyed every
 second talking with Daniel about technology, learning new hard core PHP tricks from him and brain storming
-together complex availability solutions.&lt;/p&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+together complex availability solutions.&lt;/p></description></item></channel></rss>

@@ -1,39 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>zend framework on Daniel Berstein</title>
-        <link>/tags/zend-framework/</link>
-        <description>Recent content in zend framework on Daniel Berstein</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Tue, 27 Dec 2016 08:22:22 +0200</lastBuildDate>
-        <atom:link href="/tags/zend-framework/" rel="self" type="application/rss+xml"/>
-        
-        <item>
-            <title>Recommendation :: Matthew Weier O&#39;Phinney</title>
-            <link>/recommendation/2008/matthew-weier-ophinney/index.html</link>
-            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
-            <author>Daniel Berstein (daniel@basegeo.com)</author>
-            <guid>/recommendation/2008/matthew-weier-ophinney/</guid>
-            <description>&lt;p&gt;Daniel is a superb PHP developer. His knowledge of PHP and its capabilities is expansive. Additionaly, he
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>zend framework on Daniel Berstein</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/tags/zend-framework/</link><description>Recent content in zend framework on Daniel Berstein</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 27 Dec 2016 08:22:22 +0200</lastBuildDate><atom:link href="/Users/daniel/Code/hugo-daniel.berste.in/public/tags/zend-framework/" rel="self" type="application/rss+xml"/><item><title>Recommendation :: Matthew Weier O'Phinney</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/matthew-weier-ophinney/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/matthew-weier-ophinney/</guid><description>&lt;p>Daniel is a superb PHP developer. His knowledge of PHP and its capabilities is expansive. Additionaly, he
 is able to analyze business requirements and distill them into deliverables &amp;ndash; and execute those deliverables
 both expeditiously and effectively. I have found him an amiable colleague; I cannot recommend him highly
-enough.&lt;/p&gt;
-</description>
-        </item>
-        
-        <item>
-            <title>Recommendation :: Ruslan Glick</title>
-            <link>/recommendation/2008/ruslan-glick/index.html</link>
-            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
-            <author>Daniel Berstein (daniel@basegeo.com)</author>
-            <guid>/recommendation/2008/ruslan-glick/</guid>
-            <description>&lt;p&gt;Daniel is one of the best programmers and software designers i met. He was able to leverage his extensive
+enough.&lt;/p></description></item><item><title>Recommendation :: Ruslan Glick</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/ruslan-glick/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/ruslan-glick/</guid><description>&lt;p>Daniel is one of the best programmers and software designers i met. He was able to leverage his extensive
 knowledge to solving any problems with very efficient approaches. I had the pleasure of working with Daniel
 in the same team (1.5 years) I wish all the best in his future and I&amp;rsquo;m sure he will contribute a lot in his new
-jobs. Keep in touch!&lt;/p&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+jobs. Keep in touch!&lt;/p></description></item></channel></rss>
