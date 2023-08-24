@@ -1,45 +1,106 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blogs on Daniel Berstein</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/blog/</link><description>Recent content in Blogs on Daniel Berstein</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 24 Jun 2022 11:17:42 +0200</lastBuildDate><atom:link href="/Users/daniel/Code/hugo-daniel.berste.in/public/blog/" rel="self" type="application/rss+xml"/><item><title>Blog :: Cycode and future</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/blog/cynext/index.html</link><pubDate>Fri, 24 Jun 2022 11:17:42 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/blog/cynext/</guid><description>&lt;p>Guess what? &lt;a href="https://cycode.com">Cycode&lt;/a> is now past tense to me. I will keep forever fond memories of the company and all &lt;a href="https://www.linkedin.com/company/cycode/">Cycoders&lt;/a>.&lt;/p>
-&lt;p>The future is not ours to tell. Only the present. Mine reads &amp;ldquo;spread your wings again, much fresh air to gain&amp;rdquo;.&lt;/p>
-&lt;p>Love &amp;amp; success.&lt;/p></description></item><item><title>Blog :: Cycode</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/blog/cycode/index.html</link><pubDate>Thu, 30 Dec 2021 11:22:42 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/blog/cycode/</guid><description>&lt;p>I am happy to announce I&amp;rsquo;m joining an amazing &lt;a href="https://www.linkedin.com/company/cycode/">team&lt;/a> at &lt;a href="https://cycode.com">Cycode&lt;/a> as &lt;strong>Devops Engineer&lt;/strong>.&lt;/p></description></item><item><title>Blog :: Horizon</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/blog/horizon/index.html</link><pubDate>Sun, 24 Oct 2021 11:19:45 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/blog/horizon/</guid><description>&lt;p>Deep breath&amp;hellip; ahh! How refreshing.&lt;/p>
-&lt;p>After almost five years I finally decided to take a brave step: I resigned.&lt;/p>
-&lt;p>What&amp;rsquo;s next? I don&amp;rsquo;t know.&lt;/p>
-&lt;p>Neither I know what lays behind the horizon, where oppotunities often lay.&lt;/p>
-&lt;p>I must approach.&lt;/p>
-&lt;p>Gave first step.&lt;/p>
-&lt;p>Wish me luck.&lt;/p></description></item><item><title>Blog :: Old comment</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/blog/old-comment/index.html</link><pubDate>Sun, 01 Jan 2017 09:37:45 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/blog/old-comment/</guid><description>&lt;p>Just stumbled upon an old comment of mine at an ex colleague&amp;rsquo;s site: Remi&amp;rsquo;s &lt;a href="http://www.wolerized.com/opinion/calling-kettle-black/#comment-4">Calling The Kettle Black&lt;/a>.&lt;/p>
-&lt;p>Almost 10 years later of placing that comment, I feel the &lt;strong>worthiest advice&lt;/strong> is in the ending sentence:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-fallback" data-lang="fallback">&lt;span style="display:flex;">&lt;span>Consistency is a virtue.
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>It really doesn&amp;rsquo;t matter if you code&lt;sup>&lt;a href="#notes-1">1&lt;/a>&lt;/sup> one way or the other.&lt;/p>
-&lt;p>Use whatever &lt;strong>works best for you and your team&lt;/strong> to achieve the goal(s). Just remember that &lt;strong>consistency&lt;/strong> sets apart a workable solution from an even &lt;strong>better&lt;/strong> solution. In case of doubt be &lt;strong>consistent&lt;/strong>. If you want to be part of the solution, not the problem ;)&lt;/p>
-&lt;figure class="screenshots">
-&lt;a href="img/comment-at-remi.png" title="Comment at Remi's">
-&lt;img src="img/comment-at-remi.png" loading="lazy" alt="Comment at Remi's">
-&lt;/a>
-&lt;/figure>
-&lt;hr>
-&lt;p>&lt;span class="label label-default">Notes&lt;/span>&lt;/p>
-&lt;ul class="list-unstyled notes">
-&lt;li id="notes-1">
-&lt;span class="badge">1&lt;/span> Should apply to any/most human behaviors; not just coding.
-&lt;/li>
-&lt;/ul></description></item><item><title>Blog :: Uses of socks5map proxy tool</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/blog/uses-of-socks5map-proxy-tool/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/blog/uses-of-socks5map-proxy-tool/</guid><description>&lt;p>A colleague was coding a &lt;a href="https://www.google.com/chrome/">Chrome&lt;/a> extension and was tired of constantly changing
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Blogs on Daniel Berstein</title>
+        <link>/blog/</link>
+        <description>Recent content in Blogs on Daniel Berstein</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 24 Jun 2022 11:17:42 +0200</lastBuildDate>
+        <atom:link href="/blog/" rel="self" type="application/rss+xml"/>
+        
+        <item>
+            <title>Blog :: Cycode and future</title>
+            <link>/blog/cynext/index.html</link>
+            <pubDate>Fri, 24 Jun 2022 11:17:42 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/blog/cynext/</guid>
+            <description>&lt;p&gt;Guess what? &lt;a href=&#34;https://cycode.com&#34;&gt;Cycode&lt;/a&gt; is now past tense to me.  I will keep forever fond memories of the company and all &lt;a href=&#34;https://www.linkedin.com/company/cycode/&#34;&gt;Cycoders&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The future is not ours to tell. Only the present.  Mine reads &amp;ldquo;spread your wings again, much fresh air to gain&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Love &amp;amp; success.&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Blog :: Cycode</title>
+            <link>/blog/cycode/index.html</link>
+            <pubDate>Thu, 30 Dec 2021 11:22:42 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/blog/cycode/</guid>
+            <description>&lt;p&gt;I am happy to announce I&amp;rsquo;m joining an amazing &lt;a href=&#34;https://www.linkedin.com/company/cycode/&#34;&gt;team&lt;/a&gt; at &lt;a href=&#34;https://cycode.com&#34;&gt;Cycode&lt;/a&gt; as &lt;strong&gt;Devops Engineer&lt;/strong&gt;.&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Blog :: Horizon</title>
+            <link>/blog/horizon/index.html</link>
+            <pubDate>Sun, 24 Oct 2021 11:19:45 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/blog/horizon/</guid>
+            <description>&lt;p&gt;Deep breath&amp;hellip; ahh! How refreshing.&lt;/p&gt;
+&lt;p&gt;After almost five years I finally decided to take a brave step: I resigned.&lt;/p&gt;
+&lt;p&gt;What&amp;rsquo;s next? I don&amp;rsquo;t know.&lt;/p&gt;
+&lt;p&gt;Neither I know what lays behind the horizon, where oppotunities often lay.&lt;/p&gt;
+&lt;p&gt;I must approach.&lt;/p&gt;
+&lt;p&gt;Gave first step.&lt;/p&gt;
+&lt;p&gt;Wish me luck.&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Blog :: Old comment</title>
+            <link>/blog/old-comment/index.html</link>
+            <pubDate>Sun, 01 Jan 2017 09:37:45 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/blog/old-comment/</guid>
+            <description>&lt;p&gt;Just stumbled upon an old comment of mine at an ex colleague&amp;rsquo;s site: Remi&amp;rsquo;s &lt;a href=&#34;http://www.wolerized.com/opinion/calling-kettle-black/#comment-4&#34;&gt;Calling The Kettle Black&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Almost 10 years later of placing that comment, I feel the &lt;strong&gt;worthiest advice&lt;/strong&gt; is in the ending sentence:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Consistency is a virtue.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;It really doesn&amp;rsquo;t matter if you code&lt;sup&gt;&lt;a href=&#34;#notes-1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; one way or the other.&lt;/p&gt;
+&lt;p&gt;Use whatever &lt;strong&gt;works best for you and your team&lt;/strong&gt; to achieve the goal(s). Just remember that &lt;strong&gt;consistency&lt;/strong&gt; sets apart a workable solution from an even &lt;strong&gt;better&lt;/strong&gt; solution. In case of doubt be &lt;strong&gt;consistent&lt;/strong&gt;. If you want to be part of the solution, not the problem ;)&lt;/p&gt;
+&lt;figure class=&#34;screenshots&#34;&gt;
+    &lt;a href=&#34;img/comment-at-remi.png&#34; title=&#34;Comment at Remi&#39;s&#34;&gt;
+        &lt;img src=&#34;img/comment-at-remi.png&#34; loading=&#34;lazy&#34; alt=&#34;Comment at Remi&#39;s&#34;&gt;
+    &lt;/a&gt;
+&lt;/figure&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;span class=&#34;label label-default&#34;&gt;Notes&lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&#34;list-unstyled notes&#34;&gt;
+    &lt;li id=&#34;notes-1&#34;&gt;
+        &lt;span class=&#34;badge&#34;&gt;1&lt;/span&gt; Should apply to any/most human behaviors; not just coding.
+    &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Blog :: Uses of socks5map proxy tool</title>
+            <link>/blog/uses-of-socks5map-proxy-tool/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/blog/uses-of-socks5map-proxy-tool/</guid>
+            <description>&lt;p&gt;A colleague was coding a &lt;a href=&#34;https://www.google.com/chrome/&#34;&gt;Chrome&lt;/a&gt; extension and was tired of constantly changing
 his hosts file to switch between production and localhost DNS resolution for a particular
-domain from which the extension loaded some assets.&lt;/p>
-&lt;p>That was the birth of &lt;a href="https://github.com/dberstein/socks5map">socks5map&lt;/a>, a quick
-&lt;a href="https://en.wikipedia.org/wiki/SOCKS#SOCKS5">SOCKS5&lt;/a> proxy that resolves requests to certain domains to specific addresses. Requests for
-domains not configured are resolved by system resolver.&lt;/p>
-&lt;p>If you use together &lt;a href="https://github.com/dberstein/socks5map">socks5map&lt;/a> and some proxy manager (ie.
-&lt;a href="https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=en">SwitchyOmega&lt;/a>)
-then without leaving &lt;a href="https://www.google.com/chrome/">Chrome&lt;/a> you can easily switch between development and production environments.&lt;/p>
-&lt;p>Uses of &lt;a href="https://github.com/dberstein/socks5map">socks5map&lt;/a> are not constrained to &lt;a href="https://www.google.com/chrome/">Chrome&lt;/a>.
-You may use it also with any &lt;a href="https://en.wikipedia.org/wiki/SOCKS#SOCKS5">SOCKS5&lt;/a> client that allows server-side address resolution. For example with &lt;a href="https://curl.haxx.se/">cURL&lt;/a> you need to use flag &lt;code>--socks5-hostname&lt;/code>.&lt;/p>
-&lt;p>For example, lets proxy domain overide-me.com to IP address 1.2.3.4:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-sh" data-lang="sh">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># Start proxy listening on 127.0.0.1:9000 to route requests to \&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># domain &amp;#34;overide-me.com&amp;#34; to IP &amp;#34;1.2.3.4&amp;#34; instead of DNS&amp;#39; address&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>socks5map -l 127.0.0.1:9000 -r overide-me.com:1.2.3.4
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Then in another console you use &lt;a href="https://curl.haxx.se/">cURL&lt;/a>:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-sh" data-lang="sh">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># This request will be routed to server at IP set \&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># in socks5map (eg. 1.2.3.4)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>curl --socks5-hostname 127.0.0.1:9000 &lt;span style="color:#ae81ff">\
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ae81ff">&lt;/span> http://overide-me.com/resource/path
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item></channel></rss>
+domain from which the extension loaded some assets.&lt;/p&gt;
+&lt;p&gt;That was the birth of &lt;a href=&#34;https://github.com/dberstein/socks5map&#34;&gt;socks5map&lt;/a&gt;, a quick
+&lt;a href=&#34;https://en.wikipedia.org/wiki/SOCKS#SOCKS5&#34;&gt;SOCKS5&lt;/a&gt; proxy that resolves requests to certain domains to specific addresses. Requests for
+domains not configured are resolved by system resolver.&lt;/p&gt;
+&lt;p&gt;If you use together &lt;a href=&#34;https://github.com/dberstein/socks5map&#34;&gt;socks5map&lt;/a&gt; and some proxy manager (ie.
+&lt;a href=&#34;https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=en&#34;&gt;SwitchyOmega&lt;/a&gt;)
+then without leaving &lt;a href=&#34;https://www.google.com/chrome/&#34;&gt;Chrome&lt;/a&gt; you can easily switch between development and production environments.&lt;/p&gt;
+&lt;p&gt;Uses of &lt;a href=&#34;https://github.com/dberstein/socks5map&#34;&gt;socks5map&lt;/a&gt; are not constrained to &lt;a href=&#34;https://www.google.com/chrome/&#34;&gt;Chrome&lt;/a&gt;.
+You may use it also with any &lt;a href=&#34;https://en.wikipedia.org/wiki/SOCKS#SOCKS5&#34;&gt;SOCKS5&lt;/a&gt; client that allows server-side address resolution. For example with &lt;a href=&#34;https://curl.haxx.se/&#34;&gt;cURL&lt;/a&gt; you need to use flag &lt;code&gt;--socks5-hostname&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;For example, lets proxy domain overide-me.com to IP address 1.2.3.4:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Start proxy listening on 127.0.0.1:9000 to route requests to \&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# domain &amp;#34;overide-me.com&amp;#34; to IP &amp;#34;1.2.3.4&amp;#34; instead of DNS&amp;#39; address&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;socks5map -l 127.0.0.1:9000 -r overide-me.com:1.2.3.4
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Then in another console you use &lt;a href=&#34;https://curl.haxx.se/&#34;&gt;cURL&lt;/a&gt;:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# This request will be routed to server at IP set \&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# in socks5map (eg. 1.2.3.4)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;curl --socks5-hostname 127.0.0.1:9000 &lt;span style=&#34;color:#ae81ff&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;&lt;/span&gt;    http://overide-me.com/resource/path
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+        </item>
+        
+    </channel>
+</rss>

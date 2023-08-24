@@ -1,1 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Series on Daniel Berstein</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/series/</link><description>Recent content in Series on Daniel Berstein</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 27 Dec 2016 08:22:22 +0200</lastBuildDate><atom:link href="/Users/daniel/Code/hugo-daniel.berste.in/public/series/" rel="self" type="application/rss+xml"/><item><title>Series :: projects</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/series/projects/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/series/projects/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Series on Daniel Berstein</title>
+        <link>/series/</link>
+        <description>Recent content in Series on Daniel Berstein</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 27 Dec 2016 08:22:22 +0200</lastBuildDate>
+        <atom:link href="/series/" rel="self" type="application/rss+xml"/>
+        
+        <item>
+            <title>Series :: projects</title>
+            <link>/series/projects/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/series/projects/</guid>
+            <description></description>
+        </item>
+        
+    </channel>
+</rss>

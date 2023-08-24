@@ -1,136 +1,557 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Daniel Berstein</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/</link><description>Recent content on Daniel Berstein</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 24 Jun 2022 11:17:42 +0200</lastBuildDate><atom:link href="/Users/daniel/Code/hugo-daniel.berste.in/public/" rel="self" type="application/rss+xml"/><item><title>Blog :: Cycode and future</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/blog/cynext/index.html</link><pubDate>Fri, 24 Jun 2022 11:17:42 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/blog/cynext/</guid><description>&lt;p>Guess what? &lt;a href="https://cycode.com">Cycode&lt;/a> is now past tense to me. I will keep forever fond memories of the company and all &lt;a href="https://www.linkedin.com/company/cycode/">Cycoders&lt;/a>.&lt;/p>
-&lt;p>The future is not ours to tell. Only the present. Mine reads &amp;ldquo;spread your wings again, much fresh air to gain&amp;rdquo;.&lt;/p>
-&lt;p>Love &amp;amp; success.&lt;/p></description></item><item><title>Blog :: Cycode</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/blog/cycode/index.html</link><pubDate>Thu, 30 Dec 2021 11:22:42 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/blog/cycode/</guid><description>&lt;p>I am happy to announce I&amp;rsquo;m joining an amazing &lt;a href="https://www.linkedin.com/company/cycode/">team&lt;/a> at &lt;a href="https://cycode.com">Cycode&lt;/a> as &lt;strong>Devops Engineer&lt;/strong>.&lt;/p></description></item><item><title>Recommendation :: Avihay Mor</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2021/avihay-mor/index.html</link><pubDate>Thu, 25 Nov 2021 18:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2021/avihay-mor/</guid><description>&lt;p>Daniel is a brilliant software engineer. His knowledge in software, devops and linux is amazing. He always thinks out of the box and finds great solutions to problems. His code is of the highest quality, well documented and built in the finest way.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Daniel Berstein</title>
+        <link>/</link>
+        <description>Recent content on Daniel Berstein</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 24 Jun 2022 11:17:42 +0200</lastBuildDate>
+        <atom:link href="/" rel="self" type="application/rss+xml"/>
+        
+        <item>
+            <title>Blog :: Cycode and future</title>
+            <link>/blog/cynext/index.html</link>
+            <pubDate>Fri, 24 Jun 2022 11:17:42 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/blog/cynext/</guid>
+            <description>&lt;p&gt;Guess what? &lt;a href=&#34;https://cycode.com&#34;&gt;Cycode&lt;/a&gt; is now past tense to me.  I will keep forever fond memories of the company and all &lt;a href=&#34;https://www.linkedin.com/company/cycode/&#34;&gt;Cycoders&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The future is not ours to tell. Only the present.  Mine reads &amp;ldquo;spread your wings again, much fresh air to gain&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Love &amp;amp; success.&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Blog :: Cycode</title>
+            <link>/blog/cycode/index.html</link>
+            <pubDate>Thu, 30 Dec 2021 11:22:42 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/blog/cycode/</guid>
+            <description>&lt;p&gt;I am happy to announce I&amp;rsquo;m joining an amazing &lt;a href=&#34;https://www.linkedin.com/company/cycode/&#34;&gt;team&lt;/a&gt; at &lt;a href=&#34;https://cycode.com&#34;&gt;Cycode&lt;/a&gt; as &lt;strong&gt;Devops Engineer&lt;/strong&gt;.&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: Avihay Mor</title>
+            <link>/recommendation/2021/avihay-mor/index.html</link>
+            <pubDate>Thu, 25 Nov 2021 18:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2021/avihay-mor/</guid>
+            <description>&lt;p&gt;Daniel is a brilliant software engineer. His knowledge in software, devops and linux is amazing. He always thinks out of the box and finds great solutions to problems. His code is of the highest quality, well documented and built in the finest way.
 He was a great mentor to me while we worked in Terra team in blazemeter backend group. He is always happy to assist on anything any team member needed.
-I recommend him to any software position with all my heart and would be happy to work with him again.&lt;/p></description></item><item><title>Recommendation :: Liran Sehayk</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2021/liran-sehayk/index.html</link><pubDate>Sat, 20 Nov 2021 19:13:42 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2021/liran-sehayk/</guid><description>&lt;p>Daniel is a super professional and an awesome colleague.
+I recommend him to any software position with all my heart and would be happy to work with him again.&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: Liran Sehayk</title>
+            <link>/recommendation/2021/liran-sehayk/index.html</link>
+            <pubDate>Sat, 20 Nov 2021 19:13:42 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2021/liran-sehayk/</guid>
+            <description>&lt;p&gt;Daniel is a super professional and an awesome colleague.
 It was a pleasure working and learning from you.
-Thank you Daniel.&lt;/p></description></item><item><title>Blog :: Horizon</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/blog/horizon/index.html</link><pubDate>Sun, 24 Oct 2021 11:19:45 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/blog/horizon/</guid><description>&lt;p>Deep breath&amp;hellip; ahh! How refreshing.&lt;/p>
-&lt;p>After almost five years I finally decided to take a brave step: I resigned.&lt;/p>
-&lt;p>What&amp;rsquo;s next? I don&amp;rsquo;t know.&lt;/p>
-&lt;p>Neither I know what lays behind the horizon, where oppotunities often lay.&lt;/p>
-&lt;p>I must approach.&lt;/p>
-&lt;p>Gave first step.&lt;/p>
-&lt;p>Wish me luck.&lt;/p></description></item><item><title>Recommendation :: Yuri Grigorian</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2018/yuri-grigorian/index.html</link><pubDate>Sun, 16 Dec 2018 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2018/yuri-grigorian/</guid><description>&lt;p>Daniel is truly a rare kind of a person. He always wants to help and he does it with a smile.
-I think what made me love Daniel was his passion for bug solving. He has an amazing mind that somehow manages to quickly find the most efficient solution for the most complex problem - I admit I&amp;rsquo;m sometimes jealous of this skill. Daniel is a bonus to any team, as he manages to master any skill you throw at him&lt;/p></description></item><item><title>Blog :: Old comment</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/blog/old-comment/index.html</link><pubDate>Sun, 01 Jan 2017 09:37:45 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/blog/old-comment/</guid><description>&lt;p>Just stumbled upon an old comment of mine at an ex colleague&amp;rsquo;s site: Remi&amp;rsquo;s &lt;a href="http://www.wolerized.com/opinion/calling-kettle-black/#comment-4">Calling The Kettle Black&lt;/a>.&lt;/p>
-&lt;p>Almost 10 years later of placing that comment, I feel the &lt;strong>worthiest advice&lt;/strong> is in the ending sentence:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-fallback" data-lang="fallback">&lt;span style="display:flex;">&lt;span>Consistency is a virtue.
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>It really doesn&amp;rsquo;t matter if you code&lt;sup>&lt;a href="#notes-1">1&lt;/a>&lt;/sup> one way or the other.&lt;/p>
-&lt;p>Use whatever &lt;strong>works best for you and your team&lt;/strong> to achieve the goal(s). Just remember that &lt;strong>consistency&lt;/strong> sets apart a workable solution from an even &lt;strong>better&lt;/strong> solution. In case of doubt be &lt;strong>consistent&lt;/strong>. If you want to be part of the solution, not the problem ;)&lt;/p>
-&lt;figure class="screenshots">
-&lt;a href="img/comment-at-remi.png" title="Comment at Remi's">
-&lt;img src="img/comment-at-remi.png" loading="lazy" alt="Comment at Remi's">
-&lt;/a>
-&lt;/figure>
-&lt;hr>
-&lt;p>&lt;span class="label label-default">Notes&lt;/span>&lt;/p>
-&lt;ul class="list-unstyled notes">
-&lt;li id="notes-1">
-&lt;span class="badge">1&lt;/span> Should apply to any/most human behaviors; not just coding.
-&lt;/li>
-&lt;/ul></description></item><item><title>Recommendation :: Alejandro Jara Miranda</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2001/alejandro-jara-miranda/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2001/alejandro-jara-miranda/</guid><description>&lt;p>Daniel es una de esas personas que uno agradece haber tenido como compañero. Con buena disposición
+Thank you Daniel.&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Blog :: Horizon</title>
+            <link>/blog/horizon/index.html</link>
+            <pubDate>Sun, 24 Oct 2021 11:19:45 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/blog/horizon/</guid>
+            <description>&lt;p&gt;Deep breath&amp;hellip; ahh! How refreshing.&lt;/p&gt;
+&lt;p&gt;After almost five years I finally decided to take a brave step: I resigned.&lt;/p&gt;
+&lt;p&gt;What&amp;rsquo;s next? I don&amp;rsquo;t know.&lt;/p&gt;
+&lt;p&gt;Neither I know what lays behind the horizon, where oppotunities often lay.&lt;/p&gt;
+&lt;p&gt;I must approach.&lt;/p&gt;
+&lt;p&gt;Gave first step.&lt;/p&gt;
+&lt;p&gt;Wish me luck.&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: Yuri Grigorian</title>
+            <link>/recommendation/2018/yuri-grigorian/index.html</link>
+            <pubDate>Sun, 16 Dec 2018 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2018/yuri-grigorian/</guid>
+            <description>&lt;p&gt;Daniel is truly a rare kind of a person. He always wants to help and he does it with a smile.
+I think what made me love Daniel was his passion for bug solving. He has an amazing mind that somehow manages to quickly find the most efficient solution for the most complex problem - I admit I&amp;rsquo;m sometimes jealous of this skill. Daniel is a bonus to any team, as he manages to master any skill you throw at him&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Blog :: Old comment</title>
+            <link>/blog/old-comment/index.html</link>
+            <pubDate>Sun, 01 Jan 2017 09:37:45 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/blog/old-comment/</guid>
+            <description>&lt;p&gt;Just stumbled upon an old comment of mine at an ex colleague&amp;rsquo;s site: Remi&amp;rsquo;s &lt;a href=&#34;http://www.wolerized.com/opinion/calling-kettle-black/#comment-4&#34;&gt;Calling The Kettle Black&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Almost 10 years later of placing that comment, I feel the &lt;strong&gt;worthiest advice&lt;/strong&gt; is in the ending sentence:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Consistency is a virtue.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;It really doesn&amp;rsquo;t matter if you code&lt;sup&gt;&lt;a href=&#34;#notes-1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; one way or the other.&lt;/p&gt;
+&lt;p&gt;Use whatever &lt;strong&gt;works best for you and your team&lt;/strong&gt; to achieve the goal(s). Just remember that &lt;strong&gt;consistency&lt;/strong&gt; sets apart a workable solution from an even &lt;strong&gt;better&lt;/strong&gt; solution. In case of doubt be &lt;strong&gt;consistent&lt;/strong&gt;. If you want to be part of the solution, not the problem ;)&lt;/p&gt;
+&lt;figure class=&#34;screenshots&#34;&gt;
+    &lt;a href=&#34;img/comment-at-remi.png&#34; title=&#34;Comment at Remi&#39;s&#34;&gt;
+        &lt;img src=&#34;img/comment-at-remi.png&#34; loading=&#34;lazy&#34; alt=&#34;Comment at Remi&#39;s&#34;&gt;
+    &lt;/a&gt;
+&lt;/figure&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;span class=&#34;label label-default&#34;&gt;Notes&lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&#34;list-unstyled notes&#34;&gt;
+    &lt;li id=&#34;notes-1&#34;&gt;
+        &lt;span class=&#34;badge&#34;&gt;1&lt;/span&gt; Should apply to any/most human behaviors; not just coding.
+    &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: Alejandro Jara Miranda</title>
+            <link>/recommendation/2001/alejandro-jara-miranda/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2001/alejandro-jara-miranda/</guid>
+            <description>&lt;p&gt;Daniel es una de esas personas que uno agradece haber tenido como compañero. Con buena disposición
 a trabajar en equipo, y siempre dispuesto a compartir su conocimiento; aprendí de él que si una solución
 aparentemente no es posible, se puede inventar. Y que si estás absolutamente convencido de algo, todavía
-debes preguntarte si tienes razón. Cómo lo recuerdo: creativo y místico.&lt;/p></description></item><item><title>Recommendation :: Alon Ohad</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2016/alon-ohad/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2016/alon-ohad/</guid><description>&lt;p>I know Daniel from our mutual work at IronSource. Daniel, was a valuable asset in our department. He
+debes preguntarte si tienes razón. Cómo lo recuerdo: creativo y místico.&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: Alon Ohad</title>
+            <link>/recommendation/2016/alon-ohad/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2016/alon-ohad/</guid>
+            <description>&lt;p&gt;I know Daniel from our mutual work at IronSource. Daniel, was a valuable asset in our department. He
 is extremely knowledgeable on range of handy technologies. He knows his way in Linux very well and
 also PHP, and other web, server side stuff. But more than everything, he is always willing to help his team
 members as much as he can. He devote himself to every task as much as he can and I feel privileged working
-with him.&lt;/p></description></item><item><title>Recommendation :: Amir Yampel</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/amir-yampel/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/amir-yampel/</guid><description>&lt;p>Daniel is the guy you want to have when you are running web operations and need positive and professional
-attenion with fast problem resolution !!! &amp;hellip;oh yes&amp;hellip;. he is a great guy too&lt;/p></description></item><item><title>Recommendation :: Amit Roseberger</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/amit-roseberger/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/amit-roseberger/</guid><description>&lt;p>I worked with Daniel for almost two years while he was leading the development of the Zend Web site.
+with him.&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: Amir Yampel</title>
+            <link>/recommendation/2008/amir-yampel/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2008/amir-yampel/</guid>
+            <description>&lt;p&gt;Daniel is the guy you want to have when you are running web operations and need positive and professional
+attenion with fast problem resolution !!! &amp;hellip;oh yes&amp;hellip;. he is a great guy too&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: Amit Roseberger</title>
+            <link>/recommendation/2008/amit-roseberger/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2008/amit-roseberger/</guid>
+            <description>&lt;p&gt;I worked with Daniel for almost two years while he was leading the development of the Zend Web site.
 Daniel is super responsive, quick to handle requests and has a good eye for details. Many times, Daniel fixed
 last minuet issues that were found during our release process and by that helped me role out our products on
-time. Amit Roseberger Zend Core Group Leader. Zend Technologies.&lt;/p></description></item><item><title>Recommendation :: Aviv Katz</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/aviv-katz/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/aviv-katz/</guid><description>&lt;p>Daniel is a great software developer and a great team player His knowledge and willingness to help others
+time. Amit Roseberger Zend Core Group Leader. Zend Technologies.&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: Aviv Katz</title>
+            <link>/recommendation/2008/aviv-katz/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2008/aviv-katz/</guid>
+            <description>&lt;p&gt;Daniel is a great software developer and a great team player His knowledge and willingness to help others
 made him a company wide resource for questions. It was a great pleasure working with Daniel, hope to work
-with him also in the future.&lt;/p></description></item><item><title>Recommendation :: Boaz Ziniman</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/boaz-ziniman/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/boaz-ziniman/</guid><description>&lt;p>I had the pleasure to work and manage one of the brightest developers (PHP in my case) I have ever meet,
+with him also in the future.&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: Boaz Ziniman</title>
+            <link>/recommendation/2008/boaz-ziniman/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2008/boaz-ziniman/</guid>
+            <description>&lt;p&gt;I had the pleasure to work and manage one of the brightest developers (PHP in my case) I have ever meet,
 with the most unique approach to software architect, design and coding. Daniel is constantly looking for
 new solutions and doesn&amp;rsquo;t afraid to dive into new, unfamiliar challenges, something I always appreciate in a
 software developer. Working and managing Daniel was a unique experience and I hope we will have a chance
-to work together again in the future.&lt;/p></description></item><item><title>Recommendation :: Daniel Kushner</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/daniel-kushner/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/daniel-kushner/</guid><description>&lt;p>Daniel is a professional, passionate, and dedicated asset to Zend Technologies. He enjoys his work and
-provides superb internal-customer satisfaction. It has been a pleasure having Daniel as a part of my team.&lt;/p></description></item><item><title>Recommendation :: David Korba</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/david-korba/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/david-korba/</guid><description>&lt;p>Daniel is one of the brightest developer&amp;rsquo;s I&amp;rsquo;ve ever had the pleasure to work with. He is quick, methodical,
+to work together again in the future.&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: Daniel Kushner</title>
+            <link>/recommendation/2008/daniel-kushner/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2008/daniel-kushner/</guid>
+            <description>&lt;p&gt;Daniel is a professional, passionate, and dedicated asset to Zend Technologies. He enjoys his work and
+provides superb internal-customer satisfaction. It has been a pleasure having Daniel as a part of my team.&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: David Korba</title>
+            <link>/recommendation/2008/david-korba/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2008/david-korba/</guid>
+            <description>&lt;p&gt;Daniel is one of the brightest developer&amp;rsquo;s I&amp;rsquo;ve ever had the pleasure to work with. He is quick, methodical,
 and well thought-out but his knowledge extends beyond that of a traditional developer into one who
 understands business processes and the interconnection between. He would be a tremendous asset to any
-organization. It&amp;rsquo;s been a pleasure having him as a client and as a partner in achieving our client goals.&lt;/p></description></item><item><title>Recommendation :: David Taber</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/david-taber/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/david-taber/</guid><description>&lt;p>Daniel is one of the most creative and versatile developers I&amp;rsquo;ve ever worked with. He&amp;rsquo;s quite good at
+organization. It&amp;rsquo;s been a pleasure having him as a client and as a partner in achieving our client goals.&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: David Taber</title>
+            <link>/recommendation/2008/david-taber/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2008/david-taber/</guid>
+            <description>&lt;p&gt;Daniel is one of the most creative and versatile developers I&amp;rsquo;ve ever worked with. He&amp;rsquo;s quite good at
 understanding business objectives and coming up with three different &amp;ndash; but equally viable &amp;ndash; ways to solve
 the issues. Although he&amp;rsquo;s an engineer&amp;rsquo;s engineer, he knows how to understand business issues and he&amp;rsquo;s quite
 good at anticipating problems and architecting solutions. Wish I could work with him again, or others equally
-good. A rare bird!&lt;/p></description></item><item><title>Recommendation :: Eran Hurvits</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2016/eran-hurvits/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2016/eran-hurvits/</guid><description>&lt;p>Daniel is a great developer! He worked with me for 2 years, and in the past year we worked on several
+good. A rare bird!&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: Eran Hurvits</title>
+            <link>/recommendation/2016/eran-hurvits/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2016/eran-hurvits/</guid>
+            <description>&lt;p&gt;Daniel is a great developer! He worked with me for 2 years, and in the past year we worked on several
 projects together. Daniel designed and developed many of our operational systems, and created high
 quality systems that improved the business significantly, and supported that operational activity. He is Very
-responsible, target oriented, creative and into the details, and it was It was a pleasure working with him!&lt;/p></description></item><item><title>Recommendation :: Howard Clayman</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/howard-clayman/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/howard-clayman/</guid><description>&lt;p>Daniel is a very detailed and conscientious engineer. He brought some tremendous contributions to Zend and
+responsible, target oriented, creative and into the details, and it was It was a pleasure working with him!&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: Howard Clayman</title>
+            <link>/recommendation/2008/howard-clayman/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2008/howard-clayman/</guid>
+            <description>&lt;p&gt;Daniel is a very detailed and conscientious engineer. He brought some tremendous contributions to Zend and
 was an excellent troubleshooter and solver of issues. I would highly recommend him in any team looking for
-the above strengths.&lt;/p></description></item><item><title>Recommendation :: Humberto Pröschle</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2004/humberto-pr%C3%B6schle/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2004/humberto-pr%C3%B6schle/</guid><description>&lt;p>I recommend Daniel, and especially applaud his ability to work on high technology projects&lt;/p></description></item><item><title>Recommendation :: Jacob Shwirtz</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2005/jacob-shwirtz/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2005/jacob-shwirtz/</guid><description>&lt;p>Daniel was an absolute pleasure to work with. He was always able to bring a great big-picture perspective
+the above strengths.&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: Humberto Pröschle</title>
+            <link>/recommendation/2004/humberto-pr%C3%B6schle/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2004/humberto-pr%C3%B6schle/</guid>
+            <description>&lt;p&gt;I recommend Daniel, and especially applaud his ability to work on high technology projects&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: Jacob Shwirtz</title>
+            <link>/recommendation/2005/jacob-shwirtz/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2005/jacob-shwirtz/</guid>
+            <description>&lt;p&gt;Daniel was an absolute pleasure to work with. He was always able to bring a great big-picture perspective
 to our projects and do much more than just what he was hired for. Many projects wouldn&amp;rsquo;t have succeeded
-without his attention to detail and ability to manage resources most effectively.&lt;/p></description></item><item><title>Recommendation :: Jonathan Aizen</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2005/jonathan-aizen/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2005/jonathan-aizen/</guid><description>&lt;p>Daniel is a top-tier PHP developer who pays close attention to detail and produces excellent code. His focus
+without his attention to detail and ability to manage resources most effectively.&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: Jonathan Aizen</title>
+            <link>/recommendation/2005/jonathan-aizen/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2005/jonathan-aizen/</guid>
+            <description>&lt;p&gt;Daniel is a top-tier PHP developer who pays close attention to detail and produces excellent code. His focus
 on reusability, scalability, and performance result in excellent products. Beyond his professional abilities,
 Daniel&amp;rsquo;s sense of humor, pleasant and easy-going nature, and willingness to learn new things make him a
-great person to work with.&lt;/p></description></item><item><title>Recommendation :: Kfir Ozer</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/kfir-ozer/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/kfir-ozer/</guid><description>&lt;p>Daniel is an amazing person, who always responded kindely to anything that my department needed even
+great person to work with.&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: Kfir Ozer</title>
+            <link>/recommendation/2008/kfir-ozer/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2008/kfir-ozer/</guid>
+            <description>&lt;p&gt;Daniel is an amazing person, who always responded kindely to anything that my department needed even
 when there was a lot of work! it&amp;rsquo;s was a pleasure to work with someone who trully cares about his job and
-about the service he provides!&lt;/p></description></item><item><title>Recommendation :: Laurent Kupersztych</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/laurent-kupersztych/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/laurent-kupersztych/</guid><description>&lt;p>Daniel is extremely professional and he&amp;rsquo;s always motivated and has a positive attitude when dealing with
+about the service he provides!&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: Laurent Kupersztych</title>
+            <link>/recommendation/2008/laurent-kupersztych/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2008/laurent-kupersztych/</guid>
+            <description>&lt;p&gt;Daniel is extremely professional and he&amp;rsquo;s always motivated and has a positive attitude when dealing with
 people. He lead the project we worked for and used own initiative and paid close attention to detail. He&amp;rsquo;s
-motivated, honest and results oriented !!!! LK&lt;/p></description></item><item><title>Recommendation :: Matthew Weier O'Phinney</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/matthew-weier-ophinney/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/matthew-weier-ophinney/</guid><description>&lt;p>Daniel is a superb PHP developer. His knowledge of PHP and its capabilities is expansive. Additionaly, he
+motivated, honest and results oriented !!!! LK&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: Matthew Weier O&#39;Phinney</title>
+            <link>/recommendation/2008/matthew-weier-ophinney/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2008/matthew-weier-ophinney/</guid>
+            <description>&lt;p&gt;Daniel is a superb PHP developer. His knowledge of PHP and its capabilities is expansive. Additionaly, he
 is able to analyze business requirements and distill them into deliverables &amp;ndash; and execute those deliverables
 both expeditiously and effectively. I have found him an amiable colleague; I cannot recommend him highly
-enough.&lt;/p></description></item><item><title>Recommendation :: Meni Frish</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/meni-frish/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/meni-frish/</guid><description>&lt;p>In the last monthes i had the pleassure working close with Daniel on the syncronization of the different
+enough.&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: Meni Frish</title>
+            <link>/recommendation/2008/meni-frish/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2008/meni-frish/</guid>
+            <description>&lt;p&gt;In the last monthes i had the pleassure working close with Daniel on the syncronization of the different
 Zend&amp;rsquo;s products versions. Daniel is a true professional and always willing to help and share his vast
 knowledge with others. Daniel always pay attention to the small details and like to investigate and learn new
-things in order to simplify the quality of our products.&lt;/p></description></item><item><title>Recommendation :: Michael Spector</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/michael-spector/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/michael-spector/</guid><description>&lt;p>I&amp;rsquo;d like to recommend Daniel as a very strong and self-motivated PHP developer and Web specialist. In
+things in order to simplify the quality of our products.&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: Michael Spector</title>
+            <link>/recommendation/2008/michael-spector/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2008/michael-spector/</guid>
+            <description>&lt;p&gt;I&amp;rsquo;d like to recommend Daniel as a very strong and self-motivated PHP developer and Web specialist. In
 addition to his fluency in programming and site administration Daniel has a deep knowledge in designing of
-the site business model. I&amp;rsquo;d be happy to work with Daniel in the future!&lt;/p></description></item><item><title>Recommendation :: Michal Wachstock</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/michal-wachstock/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/michal-wachstock/</guid><description>&lt;p>Daniel is a creative problem solver and organized and motivated developer. I enjoyed working with him.&lt;/p></description></item><item><title>Recommendation :: Natalie Efroni</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/natalie-efroni/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/natalie-efroni/</guid><description>&lt;p>My first contact with Daniel began several years ago when he expressed interest in the Zend PHP
+the site business model. I&amp;rsquo;d be happy to work with Daniel in the future!&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: Michal Wachstock</title>
+            <link>/recommendation/2008/michal-wachstock/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2008/michal-wachstock/</guid>
+            <description>&lt;p&gt;Daniel is a creative problem solver and organized and motivated developer. I enjoyed working with him.&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: Natalie Efroni</title>
+            <link>/recommendation/2008/natalie-efroni/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2008/natalie-efroni/</guid>
+            <description>&lt;p&gt;My first contact with Daniel began several years ago when he expressed interest in the Zend PHP
 Certification Program. He went on to become one of the first PHP Certified Engineers from Israel in Zend’s
 online listing of Zend Certified Engineers. Later he joined the Zend team and has proven to be not only
 a brilliant developer but also a team player with the gift of resolving issues in a responsive and efficient
-manner.&lt;/p></description></item><item><title>Recommendation :: Oded Rabani</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/oded-rabani/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/oded-rabani/</guid><description>&lt;p>Daniel is known as an extremely responsible employee and demonstrated a very high level of dedication
+manner.&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: Oded Rabani</title>
+            <link>/recommendation/2008/oded-rabani/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2008/oded-rabani/</guid>
+            <description>&lt;p&gt;Daniel is known as an extremely responsible employee and demonstrated a very high level of dedication
 while completing his tasks. Daniel is a VERY social person and is loved by all his colleagues. We used to
 work together planning the new software update mechanism of Zend Network, Daniel &amp;ldquo;jumped into the
 water&amp;rdquo; showing huge knowledge of how complex web based server should work, always with a smile and
-good advice. I wish to work with Daniel again someday.&lt;/p></description></item><item><title>Recommendation :: Ofer Eirew</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/ofer-eirew/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/ofer-eirew/</guid><description>&lt;p>Working with Daniel was a pleasure, He&amp;rsquo;s the type of person you can connect to very quickly. Daniel is very
-organized and hard working. A true professional.&lt;/p></description></item><item><title>Recommendation :: Oleg Sverdlov</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2011/oleg-sverdlov/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2011/oleg-sverdlov/</guid><description>&lt;p>As a software engineer, Daniel provides industrial-grade solutions in time and according to specs. He works
+good advice. I wish to work with Daniel again someday.&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: Ofer Eirew</title>
+            <link>/recommendation/2008/ofer-eirew/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2008/ofer-eirew/</guid>
+            <description>&lt;p&gt;Working with Daniel was a pleasure, He&amp;rsquo;s the type of person you can connect to very quickly. Daniel is very
+organized and hard working. A true professional.&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: Oleg Sverdlov</title>
+            <link>/recommendation/2011/oleg-sverdlov/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2011/oleg-sverdlov/</guid>
+            <description>&lt;p&gt;As a software engineer, Daniel provides industrial-grade solutions in time and according to specs. He works
 in a team as well as an one-man special task force, always bringing out high quality work. As a system
 architect, he&amp;rsquo;s an independent and creative thinker. As a skilled craftsman, Daniel is able to come up with
 creative solutions that often exceed expectations. Daniel&amp;rsquo;s friendly and ongoing personality makes it simple to
-work with him even for multicultural teams. It is a pleasure to work together with him.&lt;/p></description></item><item><title>Recommendation :: Revital Hasenfratz</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/revital-hasenfratz/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/revital-hasenfratz/</guid><description>&lt;p>Daniel is a very talented and motivated programmer. I knew that for every task or problem I had He&amp;rsquo;d solve
+work with him even for multicultural teams. It is a pleasure to work together with him.&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: Revital Hasenfratz</title>
+            <link>/recommendation/2008/revital-hasenfratz/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2008/revital-hasenfratz/</guid>
+            <description>&lt;p&gt;Daniel is a very talented and motivated programmer. I knew that for every task or problem I had He&amp;rsquo;d solve
 it quickly no matter how difficult the task be. Would definitely be happy to work with him again in the
-future!&lt;/p></description></item><item><title>Recommendation :: Ruslan Glick</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/ruslan-glick/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/ruslan-glick/</guid><description>&lt;p>Daniel is one of the best programmers and software designers i met. He was able to leverage his extensive
+future!&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: Ruslan Glick</title>
+            <link>/recommendation/2008/ruslan-glick/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2008/ruslan-glick/</guid>
+            <description>&lt;p&gt;Daniel is one of the best programmers and software designers i met. He was able to leverage his extensive
 knowledge to solving any problems with very efficient approaches. I had the pleasure of working with Daniel
 in the same team (1.5 years) I wish all the best in his future and I&amp;rsquo;m sure he will contribute a lot in his new
-jobs. Keep in touch!&lt;/p></description></item><item><title>Recommendation :: Sergiy Pechonkin</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2012/sergiy-pechonkin/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2012/sergiy-pechonkin/</guid><description>&lt;p>I worked with Daniel in the Development Department at Afterdownload. He is very goal oriented and
+jobs. Keep in touch!&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: Sergiy Pechonkin</title>
+            <link>/recommendation/2012/sergiy-pechonkin/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2012/sergiy-pechonkin/</guid>
+            <description>&lt;p&gt;I worked with Daniel in the Development Department at Afterdownload. He is very goal oriented and
 an exceptional team player, very devoted to his work and always wants to do everything in a perfect way.
 Daniel is one of the best programmers I worked with. There were several situations when under extreme
 pressure Daniel suggested brilliant solutions to the problems we had. Daniel is always ready to help other
-team members. I really enjoyed working together with Daniel.&lt;/p></description></item><item><title>Recommendation :: Seva Lapsha</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/seva-lapsha/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/seva-lapsha/</guid><description>&lt;p>Daniel is dedicated &amp;amp; talented PHP specialist; patient and careful at interpersonal relations, willing to help
-and share his knowledge and experience with others.&lt;/p></description></item><item><title>Recommendation :: Sivan Greenberg</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2011/sivan-greenberg/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2011/sivan-greenberg/</guid><description>&lt;p>Daniel is the nicest and kindest person whom I have ever had the privilege to work with. Not only is he
+team members. I really enjoyed working together with Daniel.&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: Seva Lapsha</title>
+            <link>/recommendation/2008/seva-lapsha/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2008/seva-lapsha/</guid>
+            <description>&lt;p&gt;Daniel is dedicated &amp;amp; talented PHP specialist; patient and careful at interpersonal relations, willing to help
+and share his knowledge and experience with others.&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: Sivan Greenberg</title>
+            <link>/recommendation/2011/sivan-greenberg/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2011/sivan-greenberg/</guid>
+            <description>&lt;p&gt;Daniel is the nicest and kindest person whom I have ever had the privilege to work with. Not only is he
 a technical wizard, but he also exhibits impressive management and prioritization skills. I enjoyed every
 second talking with Daniel about technology, learning new hard core PHP tricks from him and brain storming
-together complex availability solutions.&lt;/p></description></item><item><title>Recommendation :: Tal Kdoshim</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2016/tal-kdoshim/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2016/tal-kdoshim/</guid><description>&lt;p>It was a true pleasure working with Daniel for the past 2 years. Daniel is very thorough, creative and highly
+together complex availability solutions.&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: Tal Kdoshim</title>
+            <link>/recommendation/2016/tal-kdoshim/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2016/tal-kdoshim/</guid>
+            <description>&lt;p&gt;It was a true pleasure working with Daniel for the past 2 years. Daniel is very thorough, creative and highly
 devoted to his work. Daniel is a great team player and a full partner for achieving business goals quickly and
-thoroughly.&lt;/p></description></item><item><title>Recommendation :: Tom Tobin</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/tom-tobin/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/tom-tobin/</guid><description>&lt;p>Daniel brings technical skill and talent along with his business experience and passion to all of his activities
-and projects. I have always appreciated the value of this broader perspective in team members on any project&lt;/p>
-&lt;ul>
-&lt;li>Daniel is an excellent example of an such a resource.&lt;/li>
-&lt;/ul></description></item><item><title>Blog :: Uses of socks5map proxy tool</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/blog/uses-of-socks5map-proxy-tool/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/blog/uses-of-socks5map-proxy-tool/</guid><description>&lt;p>A colleague was coding a &lt;a href="https://www.google.com/chrome/">Chrome&lt;/a> extension and was tired of constantly changing
+thoroughly.&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: Tom Tobin</title>
+            <link>/recommendation/2008/tom-tobin/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2008/tom-tobin/</guid>
+            <description>&lt;p&gt;Daniel brings technical skill and talent along with his business experience and passion to all of his activities
+and projects. I have always appreciated the value of this broader perspective in team members on any project&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Daniel is an excellent example of an such a resource.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Blog :: Uses of socks5map proxy tool</title>
+            <link>/blog/uses-of-socks5map-proxy-tool/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/blog/uses-of-socks5map-proxy-tool/</guid>
+            <description>&lt;p&gt;A colleague was coding a &lt;a href=&#34;https://www.google.com/chrome/&#34;&gt;Chrome&lt;/a&gt; extension and was tired of constantly changing
 his hosts file to switch between production and localhost DNS resolution for a particular
-domain from which the extension loaded some assets.&lt;/p>
-&lt;p>That was the birth of &lt;a href="https://github.com/dberstein/socks5map">socks5map&lt;/a>, a quick
-&lt;a href="https://en.wikipedia.org/wiki/SOCKS#SOCKS5">SOCKS5&lt;/a> proxy that resolves requests to certain domains to specific addresses. Requests for
-domains not configured are resolved by system resolver.&lt;/p>
-&lt;p>If you use together &lt;a href="https://github.com/dberstein/socks5map">socks5map&lt;/a> and some proxy manager (ie.
-&lt;a href="https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=en">SwitchyOmega&lt;/a>)
-then without leaving &lt;a href="https://www.google.com/chrome/">Chrome&lt;/a> you can easily switch between development and production environments.&lt;/p>
-&lt;p>Uses of &lt;a href="https://github.com/dberstein/socks5map">socks5map&lt;/a> are not constrained to &lt;a href="https://www.google.com/chrome/">Chrome&lt;/a>.
-You may use it also with any &lt;a href="https://en.wikipedia.org/wiki/SOCKS#SOCKS5">SOCKS5&lt;/a> client that allows server-side address resolution. For example with &lt;a href="https://curl.haxx.se/">cURL&lt;/a> you need to use flag &lt;code>--socks5-hostname&lt;/code>.&lt;/p>
-&lt;p>For example, lets proxy domain overide-me.com to IP address 1.2.3.4:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-sh" data-lang="sh">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># Start proxy listening on 127.0.0.1:9000 to route requests to \&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># domain &amp;#34;overide-me.com&amp;#34; to IP &amp;#34;1.2.3.4&amp;#34; instead of DNS&amp;#39; address&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>socks5map -l 127.0.0.1:9000 -r overide-me.com:1.2.3.4
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Then in another console you use &lt;a href="https://curl.haxx.se/">cURL&lt;/a>:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-sh" data-lang="sh">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># This request will be routed to server at IP set \&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># in socks5map (eg. 1.2.3.4)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>curl --socks5-hostname 127.0.0.1:9000 &lt;span style="color:#ae81ff">\
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ae81ff">&lt;/span> http://overide-me.com/resource/path
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Recommendation :: Yoram Elalouf</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/yoram-elalouf/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/yoram-elalouf/</guid><description>&lt;p>As the Director of Global Services at Zend I have numerous interactions with Daniel,I wanted to express my
+domain from which the extension loaded some assets.&lt;/p&gt;
+&lt;p&gt;That was the birth of &lt;a href=&#34;https://github.com/dberstein/socks5map&#34;&gt;socks5map&lt;/a&gt;, a quick
+&lt;a href=&#34;https://en.wikipedia.org/wiki/SOCKS#SOCKS5&#34;&gt;SOCKS5&lt;/a&gt; proxy that resolves requests to certain domains to specific addresses. Requests for
+domains not configured are resolved by system resolver.&lt;/p&gt;
+&lt;p&gt;If you use together &lt;a href=&#34;https://github.com/dberstein/socks5map&#34;&gt;socks5map&lt;/a&gt; and some proxy manager (ie.
+&lt;a href=&#34;https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=en&#34;&gt;SwitchyOmega&lt;/a&gt;)
+then without leaving &lt;a href=&#34;https://www.google.com/chrome/&#34;&gt;Chrome&lt;/a&gt; you can easily switch between development and production environments.&lt;/p&gt;
+&lt;p&gt;Uses of &lt;a href=&#34;https://github.com/dberstein/socks5map&#34;&gt;socks5map&lt;/a&gt; are not constrained to &lt;a href=&#34;https://www.google.com/chrome/&#34;&gt;Chrome&lt;/a&gt;.
+You may use it also with any &lt;a href=&#34;https://en.wikipedia.org/wiki/SOCKS#SOCKS5&#34;&gt;SOCKS5&lt;/a&gt; client that allows server-side address resolution. For example with &lt;a href=&#34;https://curl.haxx.se/&#34;&gt;cURL&lt;/a&gt; you need to use flag &lt;code&gt;--socks5-hostname&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;For example, lets proxy domain overide-me.com to IP address 1.2.3.4:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Start proxy listening on 127.0.0.1:9000 to route requests to \&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# domain &amp;#34;overide-me.com&amp;#34; to IP &amp;#34;1.2.3.4&amp;#34; instead of DNS&amp;#39; address&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;socks5map -l 127.0.0.1:9000 -r overide-me.com:1.2.3.4
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Then in another console you use &lt;a href=&#34;https://curl.haxx.se/&#34;&gt;cURL&lt;/a&gt;:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# This request will be routed to server at IP set \&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# in socks5map (eg. 1.2.3.4)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;curl --socks5-hostname 127.0.0.1:9000 &lt;span style=&#34;color:#ae81ff&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;&lt;/span&gt;    http://overide-me.com/resource/path
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: Yoram Elalouf</title>
+            <link>/recommendation/2008/yoram-elalouf/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2008/yoram-elalouf/</guid>
+            <description>&lt;p&gt;As the Director of Global Services at Zend I have numerous interactions with Daniel,I wanted to express my
 deep appreciation and satisfaction from Daniel&amp;rsquo;s work.His help is priceless, his responsiveness is great, his
 professionalism is very high and in addition he is fun to work with. I highly recommend him as a person and
-an employee.&lt;/p></description></item><item><title>Recommendation :: Yossi Leon</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/yossi-leon/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2008/yossi-leon/</guid><description>&lt;p>Daniel is a responsible and dedicated engineer who put a lot of effort in bringing the company&amp;rsquo;s site and
+an employee.&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>Recommendation :: Yossi Leon</title>
+            <link>/recommendation/2008/yossi-leon/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2008/yossi-leon/</guid>
+            <description>&lt;p&gt;Daniel is a responsible and dedicated engineer who put a lot of effort in bringing the company&amp;rsquo;s site and
 infrastructure to high level standards. Daniel and I worked close together when it has to do with launching
 new products. Daniel impressed me with his professional skills and helped me as Product manager to achieve
 my product&amp;rsquo;s goals. I&amp;rsquo;m sure that Daniel will succeed in any company he will work for and i wish him good
-luck.&lt;/p></description></item></channel></rss>
+luck.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

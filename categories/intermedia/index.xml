@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>InterMedia on Daniel Berstein</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/categories/intermedia/</link><description>Recent content in InterMedia on Daniel Berstein</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 27 Dec 2016 08:22:22 +0200</lastBuildDate><atom:link href="/Users/daniel/Code/hugo-daniel.berste.in/public/categories/intermedia/" rel="self" type="application/rss+xml"/><item><title>Recommendation :: Alejandro Jara Miranda</title><link>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2001/alejandro-jara-miranda/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/Users/daniel/Code/hugo-daniel.berste.in/public/recommendation/2001/alejandro-jara-miranda/</guid><description>&lt;p>Daniel es una de esas personas que uno agradece haber tenido como compañero. Con buena disposición
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>InterMedia on Daniel Berstein</title>
+        <link>/categories/intermedia/</link>
+        <description>Recent content in InterMedia on Daniel Berstein</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 27 Dec 2016 08:22:22 +0200</lastBuildDate>
+        <atom:link href="/categories/intermedia/" rel="self" type="application/rss+xml"/>
+        
+        <item>
+            <title>Recommendation :: Alejandro Jara Miranda</title>
+            <link>/recommendation/2001/alejandro-jara-miranda/index.html</link>
+            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
+            <author>Daniel Berstein (daniel@basegeo.com)</author>
+            <guid>/recommendation/2001/alejandro-jara-miranda/</guid>
+            <description>&lt;p&gt;Daniel es una de esas personas que uno agradece haber tenido como compañero. Con buena disposición
 a trabajar en equipo, y siempre dispuesto a compartir su conocimiento; aprendí de él que si una solución
 aparentemente no es posible, se puede inventar. Y que si estás absolutamente convencido de algo, todavía
-debes preguntarte si tienes razón. Cómo lo recuerdo: creativo y místico.&lt;/p></description></item></channel></rss>
+debes preguntarte si tienes razón. Cómo lo recuerdo: creativo y místico.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
