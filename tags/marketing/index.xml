@@ -1,35 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>marketing on Daniel Berstein</title>
-        <link>/tags/marketing/</link>
-        <description>Recent content in marketing on Daniel Berstein</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Tue, 27 Dec 2016 08:22:22 +0200</lastBuildDate>
-        <atom:link href="/tags/marketing/" rel="self" type="application/rss+xml"/>
-        
-        <item>
-            <title>Recommendation :: Michal Wachstock</title>
-            <link>/recommendation/2008/michal-wachstock/index.html</link>
-            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
-            <author>Daniel Berstein (daniel@basegeo.com)</author>
-            <guid>/recommendation/2008/michal-wachstock/</guid>
-            <description>&lt;p&gt;Daniel is a creative problem solver and organized and motivated developer. I enjoyed working with him.&lt;/p&gt;
-</description>
-        </item>
-        
-        <item>
-            <title>Recommendation :: Tal Kdoshim</title>
-            <link>/recommendation/2016/tal-kdoshim/index.html</link>
-            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
-            <author>Daniel Berstein (daniel@basegeo.com)</author>
-            <guid>/recommendation/2016/tal-kdoshim/</guid>
-            <description>&lt;p&gt;It was a true pleasure working with Daniel for the past 2 years. Daniel is very thorough, creative and highly
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>marketing on Daniel Berstein</title><link>/tags/marketing/</link><description>Recent content in marketing on Daniel Berstein</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 27 Dec 2016 08:22:22 +0200</lastBuildDate><atom:link href="/tags/marketing/" rel="self" type="application/rss+xml"/><item><title>Recommendation :: Michal Wachstock</title><link>/recommendation/2008/michal-wachstock/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/recommendation/2008/michal-wachstock/</guid><description>&lt;p>Daniel is a creative problem solver and organized and motivated developer. I enjoyed working with him.&lt;/p></description></item><item><title>Recommendation :: Tal Kdoshim</title><link>/recommendation/2016/tal-kdoshim/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/recommendation/2016/tal-kdoshim/</guid><description>&lt;p>It was a true pleasure working with Daniel for the past 2 years. Daniel is very thorough, creative and highly
 devoted to his work. Daniel is a great team player and a full partner for achieving business goals quickly and
-thoroughly.&lt;/p&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+thoroughly.&lt;/p></description></item></channel></rss>

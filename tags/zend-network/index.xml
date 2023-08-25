@@ -1,27 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>zend network on Daniel Berstein</title>
-        <link>/tags/zend-network/</link>
-        <description>Recent content in zend network on Daniel Berstein</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Tue, 27 Dec 2016 08:22:22 +0200</lastBuildDate>
-        <atom:link href="/tags/zend-network/" rel="self" type="application/rss+xml"/>
-        
-        <item>
-            <title>Recommendation :: Oded Rabani</title>
-            <link>/recommendation/2008/oded-rabani/index.html</link>
-            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
-            <author>Daniel Berstein (daniel@basegeo.com)</author>
-            <guid>/recommendation/2008/oded-rabani/</guid>
-            <description>&lt;p&gt;Daniel is known as an extremely responsible employee and demonstrated a very high level of dedication
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>zend network on Daniel Berstein</title><link>/tags/zend-network/</link><description>Recent content in zend network on Daniel Berstein</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 27 Dec 2016 08:22:22 +0200</lastBuildDate><atom:link href="/tags/zend-network/" rel="self" type="application/rss+xml"/><item><title>Recommendation :: Oded Rabani</title><link>/recommendation/2008/oded-rabani/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/recommendation/2008/oded-rabani/</guid><description>&lt;p>Daniel is known as an extremely responsible employee and demonstrated a very high level of dedication
 while completing his tasks. Daniel is a VERY social person and is loved by all his colleagues. We used to
 work together planning the new software update mechanism of Zend Network, Daniel &amp;ldquo;jumped into the
 water&amp;rdquo; showing huge knowledge of how complex web based server should work, always with a smile and
-good advice. I wish to work with Daniel again someday.&lt;/p&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+good advice. I wish to work with Daniel again someday.&lt;/p></description></item></channel></rss>

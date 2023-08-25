@@ -1,48 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>BlazeMeter on Daniel Berstein</title>
-        <link>/categories/blazemeter/</link>
-        <description>Recent content in BlazeMeter on Daniel Berstein</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Thu, 25 Nov 2021 18:22:22 +0200</lastBuildDate>
-        <atom:link href="/categories/blazemeter/" rel="self" type="application/rss+xml"/>
-        
-        <item>
-            <title>Recommendation :: Avihay Mor</title>
-            <link>/recommendation/2021/avihay-mor/index.html</link>
-            <pubDate>Thu, 25 Nov 2021 18:22:22 +0200</pubDate>
-            <author>Daniel Berstein (daniel@basegeo.com)</author>
-            <guid>/recommendation/2021/avihay-mor/</guid>
-            <description>&lt;p&gt;Daniel is a brilliant software engineer. His knowledge in software, devops and linux is amazing. He always thinks out of the box and finds great solutions to problems. His code is of the highest quality, well documented and built in the finest way.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BlazeMeter on Daniel Berstein</title><link>/categories/blazemeter/</link><description>Recent content in BlazeMeter on Daniel Berstein</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 25 Nov 2021 18:22:22 +0200</lastBuildDate><atom:link href="/categories/blazemeter/" rel="self" type="application/rss+xml"/><item><title>Recommendation :: Avihay Mor</title><link>/recommendation/2021/avihay-mor/index.html</link><pubDate>Thu, 25 Nov 2021 18:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/recommendation/2021/avihay-mor/</guid><description>&lt;p>Daniel is a brilliant software engineer. His knowledge in software, devops and linux is amazing. He always thinks out of the box and finds great solutions to problems. His code is of the highest quality, well documented and built in the finest way.
 He was a great mentor to me while we worked in Terra team in blazemeter backend group. He is always happy to assist on anything any team member needed.
-I recommend him to any software position with all my heart and would be happy to work with him again.&lt;/p&gt;
-</description>
-        </item>
-        
-        <item>
-            <title>Recommendation :: Liran Sehayk</title>
-            <link>/recommendation/2021/liran-sehayk/index.html</link>
-            <pubDate>Sat, 20 Nov 2021 19:13:42 +0200</pubDate>
-            <author>Daniel Berstein (daniel@basegeo.com)</author>
-            <guid>/recommendation/2021/liran-sehayk/</guid>
-            <description>&lt;p&gt;Daniel is a super professional and an awesome colleague.
+I recommend him to any software position with all my heart and would be happy to work with him again.&lt;/p></description></item><item><title>Recommendation :: Liran Sehayk</title><link>/recommendation/2021/liran-sehayk/index.html</link><pubDate>Sat, 20 Nov 2021 19:13:42 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/recommendation/2021/liran-sehayk/</guid><description>&lt;p>Daniel is a super professional and an awesome colleague.
 It was a pleasure working and learning from you.
-Thank you Daniel.&lt;/p&gt;
-</description>
-        </item>
-        
-        <item>
-            <title>Recommendation :: Yuri Grigorian</title>
-            <link>/recommendation/2018/yuri-grigorian/index.html</link>
-            <pubDate>Sun, 16 Dec 2018 08:22:22 +0200</pubDate>
-            <author>Daniel Berstein (daniel@basegeo.com)</author>
-            <guid>/recommendation/2018/yuri-grigorian/</guid>
-            <description>&lt;p&gt;Daniel is truly a rare kind of a person. He always wants to help and he does it with a smile.
-I think what made me love Daniel was his passion for bug solving. He has an amazing mind that somehow manages to quickly find the most efficient solution for the most complex problem - I admit I&amp;rsquo;m sometimes jealous of this skill. Daniel is a bonus to any team, as he manages to master any skill you throw at him&lt;/p&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+Thank you Daniel.&lt;/p></description></item><item><title>Recommendation :: Yuri Grigorian</title><link>/recommendation/2018/yuri-grigorian/index.html</link><pubDate>Sun, 16 Dec 2018 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/recommendation/2018/yuri-grigorian/</guid><description>&lt;p>Daniel is truly a rare kind of a person. He always wants to help and he does it with a smile.
+I think what made me love Daniel was his passion for bug solving. He has an amazing mind that somehow manages to quickly find the most efficient solution for the most complex problem - I admit I&amp;rsquo;m sometimes jealous of this skill. Daniel is a bonus to any team, as he manages to master any skill you throw at him&lt;/p></description></item></channel></rss>

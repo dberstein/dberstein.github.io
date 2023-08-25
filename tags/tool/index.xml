@@ -1,42 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>tool on Daniel Berstein</title>
-        <link>/tags/tool/</link>
-        <description>Recent content in tool on Daniel Berstein</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Tue, 27 Dec 2016 08:22:22 +0200</lastBuildDate>
-        <atom:link href="/tags/tool/" rel="self" type="application/rss+xml"/>
-        
-        <item>
-            <title>Blog :: Uses of socks5map proxy tool</title>
-            <link>/blog/uses-of-socks5map-proxy-tool/index.html</link>
-            <pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate>
-            <author>Daniel Berstein (daniel@basegeo.com)</author>
-            <guid>/blog/uses-of-socks5map-proxy-tool/</guid>
-            <description>&lt;p&gt;A colleague was coding a &lt;a href=&#34;https://www.google.com/chrome/&#34;&gt;Chrome&lt;/a&gt; extension and was tired of constantly changing
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>tool on Daniel Berstein</title><link>/tags/tool/</link><description>Recent content in tool on Daniel Berstein</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 27 Dec 2016 08:22:22 +0200</lastBuildDate><atom:link href="/tags/tool/" rel="self" type="application/rss+xml"/><item><title>Blog :: Uses of socks5map proxy tool</title><link>/blog/uses-of-socks5map-proxy-tool/index.html</link><pubDate>Tue, 27 Dec 2016 08:22:22 +0200</pubDate><author>Daniel Berstein (daniel@basegeo.com)</author><guid>/blog/uses-of-socks5map-proxy-tool/</guid><description>&lt;p>A colleague was coding a &lt;a href="https://www.google.com/chrome/">Chrome&lt;/a> extension and was tired of constantly changing
 his hosts file to switch between production and localhost DNS resolution for a particular
-domain from which the extension loaded some assets.&lt;/p&gt;
-&lt;p&gt;That was the birth of &lt;a href=&#34;https://github.com/dberstein/socks5map&#34;&gt;socks5map&lt;/a&gt;, a quick
-&lt;a href=&#34;https://en.wikipedia.org/wiki/SOCKS#SOCKS5&#34;&gt;SOCKS5&lt;/a&gt; proxy that resolves requests to certain domains to specific addresses. Requests for
-domains not configured are resolved by system resolver.&lt;/p&gt;
-&lt;p&gt;If you use together &lt;a href=&#34;https://github.com/dberstein/socks5map&#34;&gt;socks5map&lt;/a&gt; and some proxy manager (ie.
-&lt;a href=&#34;https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=en&#34;&gt;SwitchyOmega&lt;/a&gt;)
-then without leaving &lt;a href=&#34;https://www.google.com/chrome/&#34;&gt;Chrome&lt;/a&gt; you can easily switch between development and production environments.&lt;/p&gt;
-&lt;p&gt;Uses of &lt;a href=&#34;https://github.com/dberstein/socks5map&#34;&gt;socks5map&lt;/a&gt; are not constrained to &lt;a href=&#34;https://www.google.com/chrome/&#34;&gt;Chrome&lt;/a&gt;.
-You may use it also with any &lt;a href=&#34;https://en.wikipedia.org/wiki/SOCKS#SOCKS5&#34;&gt;SOCKS5&lt;/a&gt; client that allows server-side address resolution. For example with &lt;a href=&#34;https://curl.haxx.se/&#34;&gt;cURL&lt;/a&gt; you need to use flag &lt;code&gt;--socks5-hostname&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;For example, lets proxy domain overide-me.com to IP address 1.2.3.4:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Start proxy listening on 127.0.0.1:9000 to route requests to \&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# domain &amp;#34;overide-me.com&amp;#34; to IP &amp;#34;1.2.3.4&amp;#34; instead of DNS&amp;#39; address&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;socks5map -l 127.0.0.1:9000 -r overide-me.com:1.2.3.4
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Then in another console you use &lt;a href=&#34;https://curl.haxx.se/&#34;&gt;cURL&lt;/a&gt;:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# This request will be routed to server at IP set \&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# in socks5map (eg. 1.2.3.4)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;curl --socks5-hostname 127.0.0.1:9000 &lt;span style=&#34;color:#ae81ff&#34;&gt;\
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;&lt;/span&gt;    http://overide-me.com/resource/path
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-        </item>
-        
-    </channel>
-</rss>
+domain from which the extension loaded some assets.&lt;/p>
+&lt;p>That was the birth of &lt;a href="https://github.com/dberstein/socks5map">socks5map&lt;/a>, a quick
+&lt;a href="https://en.wikipedia.org/wiki/SOCKS#SOCKS5">SOCKS5&lt;/a> proxy that resolves requests to certain domains to specific addresses. Requests for
+domains not configured are resolved by system resolver.&lt;/p>
+&lt;p>If you use together &lt;a href="https://github.com/dberstein/socks5map">socks5map&lt;/a> and some proxy manager (ie.
+&lt;a href="https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=en">SwitchyOmega&lt;/a>)
+then without leaving &lt;a href="https://www.google.com/chrome/">Chrome&lt;/a> you can easily switch between development and production environments.&lt;/p>
+&lt;p>Uses of &lt;a href="https://github.com/dberstein/socks5map">socks5map&lt;/a> are not constrained to &lt;a href="https://www.google.com/chrome/">Chrome&lt;/a>.
+You may use it also with any &lt;a href="https://en.wikipedia.org/wiki/SOCKS#SOCKS5">SOCKS5&lt;/a> client that allows server-side address resolution. For example with &lt;a href="https://curl.haxx.se/">cURL&lt;/a> you need to use flag &lt;code>--socks5-hostname&lt;/code>.&lt;/p>
+&lt;p>For example, lets proxy domain overide-me.com to IP address 1.2.3.4:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-sh" data-lang="sh">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># Start proxy listening on 127.0.0.1:9000 to route requests to \&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># domain &amp;#34;overide-me.com&amp;#34; to IP &amp;#34;1.2.3.4&amp;#34; instead of DNS&amp;#39; address&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>socks5map -l 127.0.0.1:9000 -r overide-me.com:1.2.3.4
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Then in another console you use &lt;a href="https://curl.haxx.se/">cURL&lt;/a>:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-sh" data-lang="sh">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># This request will be routed to server at IP set \&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># in socks5map (eg. 1.2.3.4)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>curl --socks5-hostname 127.0.0.1:9000 &lt;span style="color:#ae81ff">\
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ae81ff">&lt;/span> http://overide-me.com/resource/path
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item></channel></rss>
