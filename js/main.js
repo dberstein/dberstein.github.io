@@ -1,5 +1,5 @@
 jQuery(document).ready(function($) {
-    $(window).on('load', function() {
+    // $(window).on('load', function() {
         (function g(elems, d) {
             var elem = elems.eq(Math.floor(elems.length*Math.random())),
                 title = elem.find('.level-title'),
@@ -33,5 +33,5 @@ jQuery(document).ready(function($) {
         }
         $('.contact-container .blog a').attr('target', '');
         $('.contact-container .pdf a').attr('target', '_blank');
-    });
+    // });
 });
